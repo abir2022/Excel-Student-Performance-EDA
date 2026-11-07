@@ -1,3 +1,5 @@
+![Student Performance EDA](assets/banner.svg)
+
 # Student Performance EDA — study hours explain 60% of the variance, the rest is mostly noise
 
 200 students, four plausible predictors, one exam score. I ran the work in Excel and then again in Python, because the point of a second pass is to see whether the spreadsheet answer survives contact with code.
